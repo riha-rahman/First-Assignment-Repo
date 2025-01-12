@@ -64,8 +64,9 @@
       border: none;
       border-radius: 5px;
       color: white;
-      
-      
+    }
+    .btn:hover{
+      background-color: rgb(109, 39, 27);
     }
   
     .banner-img{
@@ -348,3 +349,78 @@ background-color: #9de0a6;
   background-color: #9de0a6;
 }
 
+.inp{
+  width: 50%;
+  margin-left:400px;
+  margin-right: 350px;
+  padding: 15px;
+  border: 2px solid black;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 6px;
+}
+.done-btn{
+  background-color: rgb(32, 136, 87);
+  color: beige;
+  margin-left: 800px;
+  margin-right: 600px;
+  padding: 20px;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+
+}
+.done-btn:hover{
+  background-color: rgb(43, 42, 40);
+}
+
+.subscriber-container{
+  background-color: #9de0a6;
+  margin-left: 250px;
+  margin-right: 330px;
+  height: 270px;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.subscriber-container h2{
+  text-align: center;
+   
+}
+
+.subscriber-container p{
+  text-align: center;
+  font-weight: normal;
+}
+
+.inp-email{
+width: 500px;
+height: 55px;
+font-size: 16px;
+padding-left: 15px;
+border-top-left-radius: 10px;
+border: none;
+}
+.inp-email ::placeholder{
+  margin-left: 10px;
+}
+
+.sub-btn{
+  padding: 15px 11px;
+  background-color: #218f2f;
+  border-top-right-radius: 10px;
+  border: none;
+}
+
+.sub-btn:hover{
+  background-color: cadetblue;
+}
+.form{
+  display: flex;
+  justify-content: center;
+  gap: 0px;
+ 
+}
+.spm{
+  display: 
+}
