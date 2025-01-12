@@ -1,0 +1,200 @@
+
+.fira-sans-semibold {
+  font-family: "Fira Sans", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.fira-sans-bold {
+  font-family: "Fira Sans", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.description{
+  width: 620;
+  height: 200;
+  position: left;
+}
+
+   .nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .sign-in {
+    padding: 8px 15px;
+    background-color: transparent;
+    border: 2px solid #218f2f;
+    border-radius: 4px;
+  }
+
+  
+  .Banner {
+    display: flex;
+    justify-content: space-between; 
+    background-color: #c0e4c5;
+    height:500px;
+    width: 1280px;
+    margin: 0 250px 0 250px;
+    border-radius: 15px;
+  }
+  .bn{
+   color: darkolivegreen;
+  
+  }
+  
+  .banner-content{
+    max-width: 200;
+    margin: 115px;
+    padding: 30px;
+    
+    
+  }
+
+
+    .btn{
+      background-color: #032e09;
+      font-size: 18px;
+      font-weight: 100;
+      padding: 15px 40px;
+      border: none;
+      border-radius: 5px;
+      color: white;
+      
+      
+    }
+  
+    .banner-img{
+      width: 475px;
+      height: 400px;
+      margin-top: 30px;
+    }
+/*section pillar*/
+
+    .Pillars h2{
+      
+      margin-left: 250px;
+    }
+
+   .pillars-grid{
+    display: flex;
+    gap: 20px;
+    size: 20px;
+    margin: 0 250px 0 250px;
+   }
+
+    .pillar{
+      background-color: rgb(228, 217, 203);
+      border-radius: 10px;
+      padding: 20px;
+      width: 302px;
+      height: 230px;
+    }
+
+    .description{
+        margin-right: 10px;
+        color: rgb(138, 123, 123);
+        
+    }
+
+    .pillar h4{
+      color: rgb(87, 76, 76);
+
+    }
+
+
+    .vision h2{
+      margin-left: 250px;
+    }
+
+    .vision-cards{
+      display: flex;
+      justify-content: space-between;
+      gap: 24px;
+      margin-top: 20px;
+      margin-left: 250px;
+      margin-right: 350px;
+    }
+
+    .vision-card{
+      height: 325px;
+      width: 410px;
+      size: fixed;
+    }
+    .box-content{
+      padding: 20px;
+      align-items: center;
+    }
+
+    .box-btn1{
+      margin: 50px;
+      padding: 10px 11px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      background-color: rgba(55, 122, 221, 0.411);
+      border: none;
+      margin-bottom: 500px;
+      border-radius: 5px;
+    }
+
+    .box-btn1:hover{
+
+      background-color: antiquewhite;
+    }
+
+
+    .box-btn2{
+      margin: 50px;
+      padding: 10px 11px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      background-color: #218f2f;
+      border: none;
+      border-radius: 5px;
+    }
+
+    .box-btn2:hover{
+          background-color: rgb(79, 126, 89);
+    }
+
+    .box-btn3{
+      margin: 50px;
+      padding: 10px 11px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      background-color: yellow;
+      border: none;
+      border-radius: 5px;
+    }
+
+    .box-btn3:hover{
+      background-color: burlywood;
+    }
+
+
+
+    .vision-card.blue{
+     
+      background-color: rgb(170, 216, 216);
+      border-radius: 15px;
+
+    }
+
+    .vision-card.green{
+      
+      background-color: #9de0a6;
+      border-radius: 15px;
+    }
+
+    .vision-card.yellow{
+      border-radius: 15px;
+      background-color: rgb(212, 212, 148);
+      
+    }
+
+    
