@@ -105,6 +105,7 @@
     }
 
 
+     /*Vision part*/
     .vision h2{
       margin-left: 250px;
     }
@@ -175,9 +176,6 @@
     .box-btn3:hover{
       background-color: burlywood;
     }
-
-
-
     .vision-card.blue{
      
       background-color: rgb(170, 216, 216);
@@ -197,4 +195,30 @@
       
     }
 
+    /*Recent News*/
+
+    .Recentnews{
+      margin-left: 250px;
+      margin-right: 330px;
+
+    }
+
+    .Recentnews p{
+      font-weight: normal;
+    }
+    .news-card{
+
+      background-color: bisque;
+    }
     
+   .immage{
+
+      width:100%;
+      height: auto;
+      border: 1px solid transparent;
+      border-radius: 10px;
+      padding: 30px;
+
+
+
+   }
